@@ -8,6 +8,7 @@ app.use(bodyParser.json());
 app.use(CORS());
 
 const movies = [
+	
 	{
 		id: 0,
 		title: 'The Godfather',
